@@ -15,16 +15,16 @@
         <item >Gothic</item>
     </string-array>
 
-    <!-- Nav Drawer List Item Icons -->
-    <!-- Keep them in order as the titles are in -->
-    <!--<array name="nav_drawer_icons">-->
-        <!--<item>@drawable/animals</item>-->
-        <!--<item>@drawable/celebrities</item>-->
-        <!--<item>@drawable/creative</item>-->
-        <!--<item>@drawable/Food</item>-->
-        <!--<item>@drawable/Nature</item>-->
-        <!--<item>@drawable/Gothic</item>-->
-    <!--</array>-->
+     <!--Nav Drawer List Item Icons -->
+     <!--Keep them in order as the titles are in -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_home</item>
+        <item>@drawable/ic_home</item>
+        <item>@drawable/ic_home</item>
+        <item>@drawable/ic_home</item>
+        <item>@drawable/ic_home</item>
+        <item>@drawable/ic_home</item>
+    </array>
 
     <!-- Content Description -->
     <string name="desc_list_item_icon">Item Icon</string>
