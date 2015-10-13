@@ -82,6 +82,12 @@ public class Splash extends AppCompatActivity {
             }
 
 
+            private class JsonParser {
+                public String getJSONFromUrl(String s) {
+                    s="http://api.androidhive.info/game/game_stats.json";
+                    return s;
+                }
+            }
         }
 
 
