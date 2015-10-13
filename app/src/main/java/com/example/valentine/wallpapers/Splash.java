@@ -81,11 +81,7 @@ public class Splash extends AppCompatActivity {
                 finish();
             }
 
-            private class JsonParser {
-                public String getJSONFromUrl(String s) {
-                    return s;
-                }
-            }
+
         }
 
 

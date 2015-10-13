@@ -20,7 +20,8 @@
             android:name=".Splash"
             android:label="@string/title_activity_splash"
             android:screenOrientation="portrait"
-            android:theme="@android:style/Theme.Black.NoTitleBar" >
+            android:theme="@style/AppTheme"
+           >
             >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
