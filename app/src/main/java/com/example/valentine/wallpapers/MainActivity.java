@@ -25,7 +25,7 @@ private Toolbar toolbar;
         setContentView(R.layout.activity_main);
 
         drawerLayout = (DrawerLayout) findViewById(R.id.drawerLayout);
-        navigationView = (NavigationView) findViewById(R.id.shitstuff) ;
+        navigationView = (NavigationView) findViewById(R.id.navview) ;
 
 //        mFragmentManager = getSupportFragmentManager();
 //        mFragmentTransaction = mFragmentManager.beginTransaction();
@@ -62,6 +62,8 @@ private Toolbar toolbar;
         drawerLayout.setDrawerListener(mDrawerToggle);
 
         mDrawerToggle.syncState();
+
+        
     }
 
 
